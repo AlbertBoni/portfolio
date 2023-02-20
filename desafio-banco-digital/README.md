@@ -1,0 +1,1 @@
+Sistema básico abstraindo a situação de funcionamento de um banco para exercitar os fundamentos básicos da linguagem e da orientação ao objeto.
